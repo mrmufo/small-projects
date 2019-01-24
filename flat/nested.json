@@ -1,0 +1,14 @@
+{
+    "user": {
+        "name": "John Smith",
+        "dob": "12/03/1990",
+        "manager": {
+            "name": "Max Jones",
+            "dob": "18/11/1983",
+            "assistant": {
+                "name": "woj",
+                "surname": "ryk"
+            }
+        }
+    }
+}
