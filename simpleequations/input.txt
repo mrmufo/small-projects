@@ -1,0 +1,14 @@
+a <- 456 + 9782
+b <- a * 5
+c <- a + b
+x <- b - 999
+y <- 23 + c
+z <- x - y
+xx <- x * x
+yy <- y * x
+aa <- 521 * z
+bb <- 56 / 8
+cc <- yy + aa
+qq <- 456 - 2
+dd <- cc + qq
+answer <- dd - xx
